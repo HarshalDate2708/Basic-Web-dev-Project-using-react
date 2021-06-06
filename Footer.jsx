@@ -4,7 +4,7 @@ function Footer() {
   var curryear = new Date().getFullYear();
   return (
     <footer>
-      <p>pratikshalonkar @ {curryear}</p>
+      <p>harshdate @ {curryear}</p>
     </footer>
   );
 }
